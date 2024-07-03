@@ -14,7 +14,12 @@ v.1 initial (base is V6510 v.3)
 
 **[Parts](https://github.com/vossi1/v8502/blob/master/parts.txt)**
 
-I  just tested the V8502 with a UMC 6502A in my C128D-CR successfully:
+:exclamation: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
+
+![V8502](https://github.com/vossi1/v8502/blob/master/v8502_v1_photo.png)
+
+:white_check_mark: **Tested successfully  with a UMC 6502A in my C128D-CR::**
+
 - Risen from the Oblivion VIC
 - Risen from the Oblivion VDC
 - CPM VIC mode
@@ -24,6 +29,5 @@ I  just tested the V8502 with a UMC 6502A in my C128D-CR successfully:
 - C128 Diagnostic cartridge
 - Elite 128
 
-:x: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
 
 **For a WDC 65C02 you have to cut the small trace in the other solder jumper.**
