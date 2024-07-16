@@ -18,16 +18,20 @@ v.1 initial (base is V6510 v.3)
 
 ![V8502](https://github.com/vossi1/v8502/blob/master/v8502_v1_photo.png)
 
-:white_check_mark: **Tested successfully  with a UMC 6502A in my C128D-CR::**
+:white_check_mark: **Tested successfully  with a UMC 6502A in my C128 & C128D-CR::**
 
 - Risen from the Oblivion VIC
 - Risen from the Oblivion VDC
 - CPM VIC mode
-- CPM 80 column mode
-- Galaxian cartridge C64 mode
-- Basic lesson loaded from tape
+- CPM VDC 80 column mode
+- GEOS VIC mode with REU 1764
+- GEOS VDC mode with REU 1764
 - C128 Diagnostic cartridge
 - Elite 128
-
+- Sonic with REU 1764 c64 mode
+- Galaxian cartridge C64 mode
+- Blue Max from disk C64 mode
+- Basic lesson loaded from tape
+- SD2IEC with FB64 & FB128
 
 **For a WDC 65C02 you have to cut the small trace in the other solder jumper.**
