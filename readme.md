@@ -14,6 +14,8 @@ v.1 initial (base is V6510 v.3)
 
 **[Parts](https://github.com/vossi1/v8502/blob/master/parts.txt)**
 
+**CPLD-Firmware:** The .JED file can be uploaded with a JTAG-SMT2 Xilinx programmer (China) and [xc3sprog](https://xc3sprog.sourceforge.net/)
+
 :exclamation: **BEWARE: I got good CPLD's from China, but there are some XC9572XL FAKES out there!**
 
 ![V8502](https://github.com/vossi1/v8502/blob/master/v8502_v1_photo.png)
