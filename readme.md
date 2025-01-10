@@ -24,8 +24,8 @@ v.1 initial (base is V6510 v.3)
 - Risen from the Oblivion VDC
 - CPM VIC mode
 - CPM VDC 80 column mode
-- GEOS VIC mode with REU 1764
-- GEOS VDC mode with REU 1764
+- GEOS VIC mode with REU 1764, Mouse
+- GEOS VDC mode with REU 1764, Mouse
 - C128 Diagnostic cartridge
 - Elite 128
 - Sonic with REU 1764 c64 mode
